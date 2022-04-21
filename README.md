@@ -1,11 +1,12 @@
-## Hi there 👋 I'm Nico.
+### Hi there 👋 I'm Nico.
 
 - 🌱 PhD Student.
 - :mag_right: Currently working in Translational Psychiatry at the [Max Planck Institute of Psychiatry](https://www.psych.mpg.de/en) in Munich.
 - :rocket: R & Python
 - 📫 nicolas_rost@psych.mpg.de
 
-More:
+
+#### More:
 - [Website](nicorost.github.io)
 - [Twitter](https://twitter.com/and_Ramses_II)
 - [Google Scholar](https://scholar.google.com/citations?hl=de&user=EO4RPakAAAAJ)

@@ -10,6 +10,6 @@
 - [LinkedIn](https://www.linkedin.com/in/nico-rost)
 
 #### Sportter:
-📣 Sports events in and around Munich.
+- 📣 Sports events in and around Munich.
 - [Website](https://www.sportter.de)
 - [Instagram](https://www.instagram.com/sportter_muenchen)

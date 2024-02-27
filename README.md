@@ -3,6 +3,7 @@
 - 📈 Biostatistician.
 - 🖥️ Currently working at [Roche Diagnostics](https://www.roche.com/about/business/diagnostics) in Penzberg.
 - 🚀 R & Python.
+- 📣 Sportter - sports events in and around Munich.
 
 #### More:
 - [Website](https://nicorost.github.io)
@@ -10,6 +11,5 @@
 - [LinkedIn](https://www.linkedin.com/in/nico-rost)
 
 #### Sportter:
-- 📣 Sports events in and around Munich.
 - [Website](https://www.sportter.de)
 - [Instagram](https://www.instagram.com/sportter_muenchen)
